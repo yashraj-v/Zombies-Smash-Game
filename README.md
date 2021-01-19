@@ -2,7 +2,7 @@
 
 
 
-Game made using Unity 2019.4.11f1
+A 2D Game made using Unity 2019.4.11f1
 
 In the Assests folder you can find all the C# Scripts, Sprites and Audio Files needed to create this game.
 
