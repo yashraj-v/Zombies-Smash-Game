@@ -8,6 +8,8 @@ In the Assests folder you can find all the C# Scripts, Sprites and Audio Files n
 
 All the C# scripts have proper Documentation and comments to help you understand better.
 
-Let me know your feedback. Also, you can reach out to me regarding any queries.
+Let me know your feedback. Also, you can reach out to me regarding any queries
+
+Now You can Play the Game Online: https://play.unity.com/mg/other/zombie-smash
 
 Thank you for visiting.
